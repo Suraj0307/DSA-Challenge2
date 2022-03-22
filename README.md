@@ -7,8 +7,7 @@ I have provided the sample of the dataset above u can see it.
 As the dataset is of size 2gb so its difficult to upload
 Inside the download folder you will find two things 
 1) first is the training_set folder which contains the text file in which movie id along with their rating and date of rating is given.
-### Note I haven't uploaded the whole dataset because the size is 2GB.
-### training_set contains 17770 files
+### Note I haven't uploaded the whole dataset because the size is 2GB and training_set contains 17770 files
 3) Second is movie_titles.txt it contains movie_id movie release date and movie name
 
 ## My solution
