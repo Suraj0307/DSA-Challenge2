@@ -14,8 +14,9 @@ Inside the download folder you will find two things
 Dataset is of size 2gb and is containing lots of records.
 if i will use pandas table for accessing the data then it would be slow as the data size is big and also
 #### out of memory is the problem here because of the 2gb size of the data
-#### So my solution is to store the data into a python data-structure called dictionary
+#### So my solution is to store the data into a python data structure called dictionary
 In this dictionary movie_id is the key and movie ratings are the ratings which are stored in list.
+My solution is optimised using data structure and algorithms
 
 ## Data Structures used in this project are lists,dictionary.
 
